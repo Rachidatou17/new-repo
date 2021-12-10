@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981303559485",
+    "project_id": "entrega-cb116",
+    "storage_bucket": "entrega-cb116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981303559485:android:9e3e9249b90e6d1abab154",
+        "android_client_info": {
+          "package_name": "com.example.entrega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981303559485-jqenv0r3op0of0ho6qt0v7nmv0nrnpun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAR1IsQXyNo1tMBX5mdMbVW8ORMcXUIWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981303559485-jqenv0r3op0of0ho6qt0v7nmv0nrnpun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ENTREGA</string>
+    <string name="title">CONNEXION</string>
+    <string name="login">SE Connecter</string>
+    <string name="password"></string>
+    <string name="username"></string>
+    <string name="footer">\@copyrigth 2021</string>
+    <string name="page">Inscription</string>
+    <string name="name">Username</string>
+    <string name="mail">Email</string>
+    <string name="motpasse">Password</string>
+    <string name="conf">Password Confirmation</string>
+    <string name="register">INSCRIPTION</string>
+    <string name="end">\@Copyrigth 2021</string>
+</resources>
