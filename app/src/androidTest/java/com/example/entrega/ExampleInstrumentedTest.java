@@ -9,6 +9,9 @@ import org.junit.runner.RunWith;
 
 import static org.junit.Assert.*;
 
+import androidx.test.platform.app.InstrumentationRegistry;
+import androidx.test.runner.AndroidJUnit4;
+
 /**
  * Instrumented test, which will execute on an Android device.
  *
